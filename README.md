@@ -1,4 +1,4 @@
-# MovieInfo App (show buddy)🎬
+# MovieInfo App 🎬
 
 MovieInfo App is a **React Native application** that allows users to explore popular movies, their cast, crew, and genres. This app fetches data from **TMDB (The Movie Database) API** and provides detailed information about movies.  
 
