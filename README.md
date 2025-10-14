@@ -1,50 +1,89 @@
-# Welcome to your Expo app 👋
+# MovieInfo App 🎬
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+MovieInfo App is a **React Native application** that allows users to explore popular movies, their cast, crew, and genres. This app fetches data from **TMDB (The Movie Database) API** and provides detailed information about movies.  
 
-## Get started
+> ⚠️ This app **does not provide streaming** of movies. It is for **information and discovery purposes only**.
 
-1. Install dependencies
+---
 
-   ```bash
-   npm install
-   ```
+## Features ✨
 
-2. Start the app
+- Browse **popular movies** and search for specific movies.
+- View **movie details** including title, genres, and poster.
+- Explore **cast and crew** for each movie.
+- Responsive **horizontal scroll cards** for movies.
+- Clean UI with **dark theme**.
 
-   ```bash
-   npx expo start
-   ```
+---
 
-In the output, you'll find options to open the app in a
+## Screenshots 🖼️
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+<div align="left">
+<img width="150" height="411" alt="show 1" src="https://github.com/user-attachments/assets/d445a7b9-a8e2-45d2-aad3-18473483c58d" />
+<img width="150" height="411" alt="show 2" src="https://github.com/user-attachments/assets/f1ce3431-a1e1-4882-8d60-0274a2a3d3ad" />
+<img width="150" height="411" alt="show 3" src="https://github.com/user-attachments/assets/5cae98ef-ff45-412c-b9d8-57ff7ad4cc50" />
+<img width="150" height="411" alt="show 4" src="https://github.com/user-attachments/assets/7365ee71-7174-4d0a-ada9-cf32273a97b5" />
+<img width="150" height="411" alt="show 5" src="https://github.com/user-attachments/assets/7452e77b-28f0-438a-91ff-396f3eb50c60" />
+<img width="150" height="411" alt="show 6" src="https://github.com/user-attachments/assets/cf815ddc-8877-4e40-b3f5-0cc18321a808" />   
+</div>
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
-## Get a fresh project
 
-When you're ready, run:
+---
 
+## Technologies Used 🛠️
+
+- **React Native** + **Expo**
+- **TypeScript**
+- **TMDB API**
+- **NativeWind (Tailwind CSS for React Native)**
+
+---
+
+## Installation 🚀
+
+1. Clone the repository:  
 ```bash
-npm run reset-project
+git clone https://github.com/yourusername/MovieInfoApp.git
+```
+2. Navigate to the project folder:
+```bash
+cd MovieInfoApp
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
-## Learn more
+3. Install dependencies:
+```
+npm install
+# or
+yarn install
+```
 
-To learn more about developing your project with Expo, look at the following resources:
+4. Start the Expo development server:
+```
+npm start
+# or
+yarn start
+```
+5. Environment Variables 🌐
+```
+Create a .env file in the root folder and add your TMDB API key:
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+EXPO_PUBLIC_API_KEY=your_tmdb_api_key_here
+```
+App Usage 🎮
 
-## Join the community
+1) Open the app using Expo Go or simulator.
+2) Search for a movie or scroll through popular movies.
+3) Tap on a movie card to view details, including cast and crew.
 
-Join our community of developers creating universal apps.
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+<h1 align="left">
+  Made with ❤️ by 
+  <a href="https://www.linkedin.com/in/jones-j06/" target="_blank">Jones.J</a>
+</h1>
+
+
+
+
