@@ -19,12 +19,12 @@ MovieInfo App is a **React Native application** that allows users to explore pop
 ## Screenshots 🖼️
 
 <div align="left">
-<img width="150" height="411" alt="show 1" src="https://github.com/user-attachments/assets/d445a7b9-a8e2-45d2-aad3-18473483c58d" />
-<img width="150" height="411" alt="show 2" src="https://github.com/user-attachments/assets/f1ce3431-a1e1-4882-8d60-0274a2a3d3ad" />
-<img width="150" height="411" alt="show 3" src="https://github.com/user-attachments/assets/5cae98ef-ff45-412c-b9d8-57ff7ad4cc50" />
-<img width="150" height="411" alt="show 4" src="https://github.com/user-attachments/assets/7365ee71-7174-4d0a-ada9-cf32273a97b5" />
-<img width="150" height="411" alt="show 5" src="https://github.com/user-attachments/assets/7452e77b-28f0-438a-91ff-396f3eb50c60" />
-<img width="150" height="411" alt="show 6" src="https://github.com/user-attachments/assets/cf815ddc-8877-4e40-b3f5-0cc18321a808" />   
+<img width="150" height="311" alt="show 1" src="https://github.com/user-attachments/assets/d445a7b9-a8e2-45d2-aad3-18473483c58d" />
+<img width="150" height="311" alt="show 2" src="https://github.com/user-attachments/assets/f1ce3431-a1e1-4882-8d60-0274a2a3d3ad" />
+<img width="150" height="311" alt="show 3" src="https://github.com/user-attachments/assets/5cae98ef-ff45-412c-b9d8-57ff7ad4cc50" />
+<img width="150" height="311" alt="show 4" src="https://github.com/user-attachments/assets/7365ee71-7174-4d0a-ada9-cf32273a97b5" />
+<img width="150" height="311" alt="show 5" src="https://github.com/user-attachments/assets/7452e77b-28f0-438a-91ff-396f3eb50c60" />
+<img width="150" height="311" alt="show 6" src="https://github.com/user-attachments/assets/cf815ddc-8877-4e40-b3f5-0cc18321a808" />   
 </div>
 
 
